@@ -1,0 +1,5 @@
+2025-06-09 17:59:37,375 - ERROR - Error executing query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select emp_id,sum(sale_amount)\n            from employee_sales\n            group' at line 2")
+2025-06-09 17:59:37,375 - INFO - Database connection closed
+2025-06-09 18:03:25,855 - ERROR - Error executing query: commit
+2025-06-09 18:03:25,855 - INFO - Database connection closed
+2025-06-09 18:04:16,498 - INFO - Database connection closed
