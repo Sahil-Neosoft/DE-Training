@@ -6,3 +6,9 @@
 2025-06-09 17:29:04,699 - INFO - Database connection closed
 2025-06-09 17:58:29,493 - ERROR - Error executing query: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select emp_id,sum(sale_amount)\n            from employee_sales\n            group' at line 2")
 2025-06-09 17:58:29,498 - INFO - Database connection closed
+2025-06-10 11:22:52,151 - INFO - Executing: 1. Total Sales by Region (Stored Procedure, No Params)
+2025-06-10 11:22:52,162 - INFO - Executing: 2. Sales by Employee ID (Stored Procedure, Parameterized)
+2025-06-10 11:22:52,170 - INFO - Executing: 3. Insert New Sale Record (Stored Procedure, Parameterized)
+2025-06-10 11:22:52,175 - INFO - Executing: 4. Monthly Sales Summary (Stored Procedure, No Params)
+2025-06-10 11:22:52,181 - INFO - Executing: 5. Sales in a Region (Stored Procedure, Parameterized)
+2025-06-10 11:22:52,186 - INFO - Database connection closed
