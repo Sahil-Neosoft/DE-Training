@@ -1,4 +1,4 @@
-from db import SessionLocal
+from app.db import SessionLocal
 
 def get_db():
     db=SessionLocal() # It opens the connection
